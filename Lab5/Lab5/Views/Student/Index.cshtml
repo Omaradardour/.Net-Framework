@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "Students";
+}
+<div class="studentsPage">
+    <h2>Students list</h2>
+
+    </div>
+<table class="table text-center table-hover table-striped">
+    <thead class="thead-dark">
+        <tr style ="background-color:brown;color: white">
+
+            <th style="text-align: center">First Name </th>
+            <th style="text-align: center">Last name</th>
+            <th style="text-align: center">Email</th>
+            <th style="text-align: center">Phone number</th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 1;
+            foreach (var student in @Model)
+            {
+
+                <tr class="table-row">
+
+                    <td>@student.FirstName</td>
+                    <td>@student.LastName</td>
+                    <td>@student.Email</td>
+                    <td>@student.PhoneNumber</td>
+
+                </tr>
+
+                i++;
+            }
+        }
+
+
+    </tbody>
+</table>
+    <!-- Modal -->
+    

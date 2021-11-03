@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\pc\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\pc\source\repos\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\pc\source\repos\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\pc\source\repos\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\pc\source\repos\Lab2\Lab2\bin\Debug\Baseline.dll
+C:\Users\pc\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+C:\Users\pc\Desktop\dot-net\src\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\dot-net\src\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\dot-net\src\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\pc\Desktop\dot-net\src\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\pc\Desktop\dot-net\src\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\pc\Desktop\dot-net\src\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\pc\Desktop\dot-net\src\Lab2\Lab2\bin\Debug\Baseline.dll
+C:\Users\pc\Desktop\dot-net\src\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
